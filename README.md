@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI+Solutions+for+Financial+Inclusion;Learning+Deep+Learning+%26+MLOps;Open+to+Opportunities+and+Collaborations)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Data+Solutions+for+Institutions+Inclusion;Learning+Deep+Learning+%26+MLOps;Open+to+Opportunities+and+Collaborations)](https://git.io/typing-svg)
   
 </div>
 
