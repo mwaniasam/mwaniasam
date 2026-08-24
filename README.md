@@ -26,7 +26,7 @@
 class SamuelMwania:
     def __init__(self):
         self.name        = "Mwania Samuel"
-        self.degree      = "BSc Software Engineering (ML) — Final Year"
+        self.degree      = "BSc Software Engineering (ML) - Final Year"
         self.university  = "African Leadership University"
         self.location    = "Juja, Kenya"
 
@@ -56,15 +56,15 @@ class SamuelMwania:
 
 ## Featured Projects
 
-### AegisVeritas — Graph-Based Financial Crime Intelligence Platform
+### AegisVeritas - Graph-Based Financial Crime Intelligence Platform
 > *Capstone project | In active development*
 
-A production-grade anti-money laundering platform built for African financial institutions. Connects entities across transactions the way a real investigator thinks — not just flagging numbers, but mapping relationships.
+A production-grade anti-money laundering platform built for African financial institutions. Connects entities across transactions the way a real investigator thinks - not just flagging numbers, but mapping relationships.
 
 **Stack:** FastAPI · SQLAlchemy 2.0 async · Neo4j · PyTorch Geometric GAT · Argon2id · Next.js · Three.js / WebGL
 
 **What is built so far:**
-- `RiskOrchestrator` — GNN risk scoring with heuristic sparse-subgraph fallback
+- `RiskOrchestrator` - GNN risk scoring with heuristic sparse-subgraph fallback
 - 5 live API endpoints with hash-chained audit logging (tamper-evident evidence chain)
 - `PostgresAuthenticator` with timing-equalised unknown-email handling
 - `Neo4jEntityReader` with Cypher deduplication
@@ -73,7 +73,7 @@ A production-grade anti-money laundering platform built for African financial in
 
 ---
 
-### Zindi Multilingual Health NLP — **Ranked 17th / 1,651 participants**
+### Zindi Multilingual Health NLP - **Ranked 17th / 1,651 participants**
 > *Public competition | 5 African languages*
 
 Built a multilingual health question answering system across five African languages including Swahili and Amharic. Tracked 27+ documented submissions. Ran entirely on 12 free Colab GPU hours/day and 30 Kaggle hours/week. No lab. No research supervisor.
@@ -83,11 +83,11 @@ Built a multilingual health question answering system across five African langua
 ### Google WAXAL ASR Challenge
 > *Low-resource African language speech recognition*
 
-Built automatic speech recognition systems for Lingala, Luganda, and Shona — three languages with almost no available training data. Scored 0.74 WER against the top team's 0.78, on 8GB RAM and borrowed compute.
+Built automatic speech recognition systems for Lingala, Luganda, and Shona - three languages with almost no available training data. Scored 0.74 WER against the top team's 0.78, on 8GB RAM and borrowed compute.
 
 ---
 
-### Hidden Markov Model — From Scratch
+### Hidden Markov Model - From Scratch
 > *Human Activity Recognition | 97% accuracy*
 
 Implemented Baum-Welch (training) and Viterbi (decoding) entirely from scratch. Collected accelerometer and gyroscope data from my own phone. Hit 97% accuracy across four activity classes with zero use of HMM libraries.
