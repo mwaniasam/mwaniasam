@@ -54,9 +54,9 @@ class SamuelMwania:
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🏆 Competition & Research Wins
+### Competition & Research Wins
 
 #### **Zindi Multilingual Health NLP - Ranked 17th / 1,651 participants**
 > *Public competition | 5 African languages | Real-world impact*
@@ -86,7 +86,7 @@ Implemented Baum-Welch (training) and Viterbi (decoding) entirely from scratch. 
 
 ---
 
-### 💼 Production & Capstone Projects
+### Production & Capstone Projects
 
 #### **AegisVeritas - Graph-Based Financial Crime Intelligence Platform**
 > *Capstone project | In active development*
@@ -114,7 +114,7 @@ Trained a production-deployed disease classification model on a large-scale agri
 
 ---
 
-### 📚 ML & Data Science Projects
+### ML & Data Science Projects
 
 #### **Time Series Forecasting**
 [![GitHub](https://img.shields.io/badge/View%20Repo-time--series--forecasting-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/time-series_forecasting)
@@ -137,7 +137,7 @@ Comprehensive coursework covering supervised learning, unsupervised learning, an
 
 ---
 
-### 🔧 Full-Stack Development
+### Full-Stack Development
 
 #### **Synapse Platform**
 [![GitHub](https://img.shields.io/badge/View%20Repo-synapse--platform-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/synapse-platform)
@@ -191,6 +191,22 @@ Production-grade backend systems with RESTful API design and database management
 
 ---
 
+## Contributions & Experience
+
+### Open Source & Community Contributions
+- Active contributor to machine learning and NLP projects
+- Participated in multiple Zindi and Kaggle competitions
+- Research focus on improving accessibility of ML for low-resource African languages
+- Strong commitment to knowledge sharing and community engagement
+
+### Professional Skills
+- **Problem Solving:** Experience tackling complex challenges in NLP, GNNs, and backend systems
+- **Research:** Competitive performance in international ML competitions
+- **System Design:** Production-grade systems with focus on scalability and security
+- **Collaboration:** Cross-functional work with teams on capstone projects and research initiatives
+
+---
+
 ## GitHub Statistics
 
 <div align="center">
@@ -218,10 +234,15 @@ Production-grade backend systems with RESTful API design and database management
 
 ## Education
 
-**BSc Software Engineering (Machine Learning)**
+**BSc Software Engineering (Machine Learning)**  
 *African Leadership University | Rwanda Campus | 2024 – 2026*
 
 **Key coursework:** Machine Learning · Deep Learning · Graph Neural Networks · NLP · MLOps · Software Engineering · Linear Algebra · Statistics
+
+**Achievements:**
+- Capstone project: AegisVeritas (Production-grade financial crime intelligence platform)
+- Competition rankings: Zindi 17th/1,651, Google WAXAL ASR Challenge
+- Coursework focus on practical applications of ML in African context
 
 ---
 
