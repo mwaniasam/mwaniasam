@@ -72,10 +72,7 @@ Built a multilingual health question answering system across five African langua
 
 ---
 
-#### **Google WAXAL ASR Challenge**
-> *Low-resource African language speech recognition*
-
-Built automatic speech recognition systems for Lingala, Luganda, and Shona - three languages with almost no available training data. Scored 0.74 WER against the top team's 0.78, on 8GB RAM and borrowed GPU time.
+#### **Maize Yield Predictor Mobile App**
 
 ---
 
@@ -130,10 +127,8 @@ TypeScript-based platform showcasing modern full-stack development practices.
 
 ---
 
-#### **Backend Engineering**
-[![GitHub](https://img.shields.io/badge/View%20Repo-alu--back--end-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/alu-back-end)
+#### ****
 
-Production-grade backend systems with RESTful API design and database management.
 
 ---
 
