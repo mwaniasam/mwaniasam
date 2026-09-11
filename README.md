@@ -201,17 +201,17 @@ Production-grade backend systems with RESTful API design and database management
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwaniasam&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaniasam&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwaniasam&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaniasam&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Streak Stats" />
 
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaniasam&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaniasam&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mwaniasam&bg_color=0D1117&color=00d9ff&line=00d9ff&point=FFFFFF&area_color=0D1117&title_color=00d9ff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mwaniasam&bg_color=0D1117&color=00d9ff&line=00d9ff&point=FFFFFF&area_color=0D1117&title_color=00d9ff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 ---
