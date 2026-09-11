@@ -73,6 +73,11 @@ Built a multilingual health question answering system across five African langua
 ---
 
 #### **Maize Yield Predictor Mobile App**
+> *ML-powered mobile application for crop yield estimation*
+
+[![GitHub](https://img.shields.io/badge/View%20Repo-ML--MobileApp__Linear__regression-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/ML-MobileApp_Linear_regression)
+
+A mobile-first machine learning application that predicts maize yield from field and environmental inputs using a linear regression pipeline, with practical UX focused on farmer-facing usability.
 
 ---
 
