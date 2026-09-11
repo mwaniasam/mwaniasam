@@ -79,13 +79,6 @@ Built automatic speech recognition systems for Lingala, Luganda, and Shona - thr
 
 ---
 
-#### **Hidden Markov Model - From Scratch**
-> *Human Activity Recognition | 97% accuracy*
-
-Implemented Baum-Welch (training) and Viterbi (decoding) entirely from scratch. Collected accelerometer and gyroscope data from my own phone. Hit 97% accuracy across four activity classes with zero external libraries.
-
----
-
 ### Production & Capstone Projects
 
 #### **AegisVeritas - Graph-Based Financial Crime Intelligence Platform**
@@ -102,15 +95,6 @@ A production-grade anti-money laundering platform built for African financial in
 - `Neo4jEntityReader` with Cypher deduplication
 - Boot-time startup checks, 164+ passing automated tests
 - Investor pitch materials, Kenya-relevant data source integration (KRA, BRS, IFMIS, World Bank, ICIJ)
-
----
-
-#### **Coffee Leaf Disease Classifier**
-> *MobileNetV2 | 58,555 Arabica images | Deployed on Render | Full marks*
-
-[![GitHub](https://img.shields.io/badge/View%20Repo-Coffee--Leaf--Disease-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/coffee-leaf-disease)
-
-Trained a production-deployed disease classification model on a large-scale agricultural dataset. End-to-end: data pipeline, training, deployment. Real-world application for African farmers.
 
 ---
 
@@ -193,11 +177,10 @@ Production-grade backend systems with RESTful API design and database management
 
 ## Contributions & Experience
 
-### Open Source & Community Contributions
-- Active contributor to machine learning and NLP projects
+### Community Engagement
 - Participated in multiple Zindi and Kaggle competitions
 - Research focus on improving accessibility of ML for low-resource African languages
-- Strong commitment to knowledge sharing and community engagement
+- Open to future opportunities in open source and research collaborations
 
 ### Professional Skills
 - **Problem Solving:** Experience tackling complex challenges in NLP, GNNs, and backend systems
@@ -223,11 +206,15 @@ Production-grade backend systems with RESTful API design and database management
 </div>
 
 <div align="center">
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaniasam&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mwaniasam&bg_color=0D1117&color=00d9ff&line=00d9ff&point=FFFFFF&area_color=0D1117&title_color=00d9ff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mwaniasam&bg_color=0D1117&color=00d9ff&line=00d9ff&point=FFFFFF&area_color=0D1117&title_color=00d9ff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
+
 </div>
 
 ---
