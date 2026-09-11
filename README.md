@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Mwania%20Samuel&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=BSc+Software+Engineering+(ML)+%7C+African+Leadership+University&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Mwania%20Samuel&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=00d9ff">
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Graph+Neural+Networks+%7C+NLP+%7C+Financial+Crime+Detection;Ranked+17th%2F1651+%E2%80%94+Zindi+Multilingual+Health+NLP;Google+WAXAL+ASR+%7C+African+Low-Resource+Languages;Building+AegisVeritas+%E2%80%94+Graph-Based+AML+Platform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Graph+Neural+Networks+%7C+NLP+%7C+ML+Engineering;Building+systems+for+low-resource+African+languages;Capstone+defender+%7C+Zindi+ranked+17%2F1651)]
 
 </div>
 
@@ -54,12 +54,44 @@ class SamuelMwania:
 
 ---
 
-## Featured Projects
+## 🎯 Featured Projects
 
-### AegisVeritas - Graph-Based Financial Crime Intelligence Platform
+### 🏆 Competition & Research Wins
+
+#### **Zindi Multilingual Health NLP - Ranked 17th / 1,651 participants**
+> *Public competition | 5 African languages | Real-world impact*
+
+[![GitHub](https://img.shields.io/badge/View%20Repo-multilingual--health--qa-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/multilingual-health-qa)
+
+Built a multilingual health question answering system across five African languages including Swahili and Amharic. Tracked 27+ documented submissions across multiple model architectures. Ran entirely on 12 free Colab GPU hours/day—demonstrating efficient resource management on constrained infrastructure.
+
+**Key achievements:**
+- Top 1.04% placement in international competition
+- Successfully handled low-resource African languages
+- Production-ready inference pipeline
+
+---
+
+#### **Google WAXAL ASR Challenge**
+> *Low-resource African language speech recognition*
+
+Built automatic speech recognition systems for Lingala, Luganda, and Shona - three languages with almost no available training data. Scored 0.74 WER against the top team's 0.78, on 8GB RAM and borrowed GPU time.
+
+---
+
+#### **Hidden Markov Model - From Scratch**
+> *Human Activity Recognition | 97% accuracy*
+
+Implemented Baum-Welch (training) and Viterbi (decoding) entirely from scratch. Collected accelerometer and gyroscope data from my own phone. Hit 97% accuracy across four activity classes with zero external libraries.
+
+---
+
+### 💼 Production & Capstone Projects
+
+#### **AegisVeritas - Graph-Based Financial Crime Intelligence Platform**
 > *Capstone project | In active development*
 
-A production-grade anti-money laundering platform built for African financial institutions. Connects entities across transactions the way a real investigator thinks - not just flagging numbers, but mapping relationships.
+A production-grade anti-money laundering platform built for African financial institutions. Connects entities across transactions the way a real investigator thinks - not just flagging numbers, but building networks.
 
 **Stack:** FastAPI · SQLAlchemy 2.0 async · Neo4j · PyTorch Geometric GAT · Argon2id · Next.js · Three.js / WebGL
 
@@ -73,31 +105,51 @@ A production-grade anti-money laundering platform built for African financial in
 
 ---
 
-### Zindi Multilingual Health NLP - **Ranked 17th / 1,651 participants**
-> *Public competition | 5 African languages*
-
-Built a multilingual health question answering system across five African languages including Swahili and Amharic. Tracked 27+ documented submissions. Ran entirely on 12 free Colab GPU hours/day and 30 Kaggle hours/week. No lab. No research supervisor.
-
----
-
-### Google WAXAL ASR Challenge
-> *Low-resource African language speech recognition*
-
-Built automatic speech recognition systems for Lingala, Luganda, and Shona - three languages with almost no available training data. Scored 0.74 WER against the top team's 0.78, on 8GB RAM and borrowed compute.
-
----
-
-### Hidden Markov Model - From Scratch
-> *Human Activity Recognition | 97% accuracy*
-
-Implemented Baum-Welch (training) and Viterbi (decoding) entirely from scratch. Collected accelerometer and gyroscope data from my own phone. Hit 97% accuracy across four activity classes with zero use of HMM libraries.
-
----
-
-### Coffee Leaf Disease Classifier
+#### **Coffee Leaf Disease Classifier**
 > *MobileNetV2 | 58,555 Arabica images | Deployed on Render | Full marks*
 
-Trained a production-deployed disease classification model on a large-scale agricultural dataset. End-to-end: data pipeline, training, deployment.
+[![GitHub](https://img.shields.io/badge/View%20Repo-Coffee--Leaf--Disease-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/coffee-leaf-disease)
+
+Trained a production-deployed disease classification model on a large-scale agricultural dataset. End-to-end: data pipeline, training, deployment. Real-world application for African farmers.
+
+---
+
+### 📚 ML & Data Science Projects
+
+#### **Time Series Forecasting**
+[![GitHub](https://img.shields.io/badge/View%20Repo-time--series--forecasting-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/time-series_forecasting)
+
+Comprehensive time series analysis and forecasting models with evaluation metrics and real-world data.
+
+---
+
+#### **MLOps Summative**
+[![GitHub](https://img.shields.io/badge/View%20Repo-MLOPs--summative-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/MLOPs_summative)
+
+End-to-end machine learning operations pipeline including model training, evaluation, and deployment best practices.
+
+---
+
+#### **Machine Learning Fundamentals**
+[![GitHub](https://img.shields.io/badge/View%20Repo-alu--machine--learning-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/alu-machine_learning)
+
+Comprehensive coursework covering supervised learning, unsupervised learning, and advanced ML techniques from scratch.
+
+---
+
+### 🔧 Full-Stack Development
+
+#### **Synapse Platform**
+[![GitHub](https://img.shields.io/badge/View%20Repo-synapse--platform-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/synapse-platform)
+
+TypeScript-based platform showcasing modern full-stack development practices.
+
+---
+
+#### **Backend Engineering**
+[![GitHub](https://img.shields.io/badge/View%20Repo-alu--back--end-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/alu-back-end)
+
+Production-grade backend systems with RESTful API design and database management.
 
 ---
 
@@ -149,17 +201,17 @@ Trained a production-deployed disease classification model on a large-scale agri
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwaniasam&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaniasam&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwaniasam&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaniasam&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff">
 
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaniasam&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaniasam&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8">
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mwaniasam&bg_color=0D1117&color=00d9ff&line=00d9ff&point=FFFFFF&area_color=0D1117&title_color=00d9ff&area=true&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mwaniasam&bg_color=0D1117&color=00d9ff&line=00d9ff&point=FFFFFF&area_color=0D1117&title_color=00d9ff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph">
 </div>
 
 ---
