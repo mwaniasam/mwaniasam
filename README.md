@@ -54,6 +54,15 @@ class SamuelMwania:
 
 ---
 
+## 🔧 What I Build
+
+- **Graph-based intelligence systems:** GNN risk scoring and entity-relationship detection on Neo4j, built for real investigative workflows rather than flat classification
+- **ML pipelines for low-resource languages:** multilingual NLP and ASR systems (Swahili, Amharic, Lingala, Shona, Luganda) trained under constrained compute
+- **Production backend APIs:** FastAPI + SQLAlchemy 2.0 async services with tamper-evident audit logging and hardened authentication (Argon2id, timing-equalised auth flows)
+- **Full-stack ML products:** Next.js / React front ends wired to PyTorch-backed inference, from mobile yield predictors to investigator-facing dashboards
+
+---
+
 ## Featured Projects
 
 ### Competition & Research Wins
@@ -63,7 +72,7 @@ class SamuelMwania:
 
 [![GitHub](https://img.shields.io/badge/View%20Repo-multilingual--health--qa-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/multilingual-health-qa)
 
-Built a multilingual health question answering system across five African languages including Swahili and Amharic. Tracked 27+ documented submissions across multiple model architectures. Ran entirely on 12 free Colab GPU hours/day—demonstrating efficient resource management on constrained infrastructure.
+Built a multilingual health question answering system across five African languages including Swahili and Amharic. Tracked 27+ documented submissions across multiple model architectures. Ran entirely on 12 free Colab GPU hours/day, demonstrating efficient resource management on constrained infrastructure.
 
 **Key achievements:**
 - Top 1.04% placement in international competition
