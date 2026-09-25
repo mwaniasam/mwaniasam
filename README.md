@@ -1,279 +1,57 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Mwania%20Samuel&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=00d9ff">
-</div>
+# Samuel Mwania
 
-<div align="center">
+**Software Engineer · Machine Learning & Data Systems**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Graph+Neural+Networks+%7C+NLP+%7C+ML+Engineering;Building+systems+for+low-resource+African+languages;Capstone+defender+%7C+Zindi+ranked+17%2F1651)]
+I build machine learning and data systems that turn real-world problems into deployable software: model, API, container, deployment, load test, retraining path. Seven built, two answering live requests in production.
 
-</div>
+BSc Software Engineering (Machine Learning), African Leadership University · Completing December 2026, graduation ceremony June 2027 · Based in Kenya
 
-<div align="center">
+Open to internships, graduate roles, research opportunities and full-time roles. Internships and project-based work now, full-time from January 2027.
 
-![Profile Views](https://komarev.com/ghpvc/?username=mwaniasam&label=Profile%20Views&color=00d9ff&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/mwaniasam?label=Followers&style=flat-square&color=00d9ff)
-![GitHub Stars](https://img.shields.io/github/stars/mwaniasam?label=Stars&style=flat-square&color=00d9ff)
-
-</div>
+**[Portfolio](https://www.mwaaniasam.com)** · **[Resume](https://docs.google.com/document/d/1P5MNIAe3ejL193irf26fcbxkm3EahZN5T39hx1_UtCg/view)** · **[LinkedIn](https://www.linkedin.com/in/samuel-mwania-73sa17)** · **[Email](mailto:mwaaniasamuel@gmail.com)**
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## Selected work
 
-## About Me
+| Project | What it is | Result | Evidence |
+|---|---|---|---|
+| **Maize Yield Prediction** | Random Forest regression API and Flutter app for Nigerian smallholder farms | Live on Render. R² 0.2372 against a mean-predictor baseline; the limitations are documented | [Source](https://github.com/mwaniasam/ML-MobileApp_Linear-regression) · [Live API](https://ml-mobileapp-linear-regression.onrender.com/docs) |
+| **CoffeeGuard** | Coffee leaf disease classifier: MobileNetV2, FastAPI, Streamlit, Docker, Locust | 98.80% accuracy, 98.36% macro F1 on 58,549 images; zero failed requests at 50 concurrent users | [Source](https://github.com/mwaniasam/MLOPs_summative) · [Live](https://coffeeguard-hwhq.onrender.com) |
+| **Multilingual Health QA** | Health question answering in five African languages: dense retrieval with per-language answer selection | **Zindi final rank 17th of 1,651.** Public score 0.6908, 41% above the TF-IDF baseline, 44 logged experiments | [Source](https://github.com/mwaniasam/multilingual-health-qa) |
+| **AegisVeritas** | Graph-based screening platform, the production system behind my capstone research | In development | See below |
+| **Freeway DQN** | Controlled 30-experiment study of DQN hyperparameters, team of three | Discount factor 0.90 beat the conventional 0.99 | [Source](https://github.com/kelvintawe12/Freeway-DQN_formative3) |
 
-```python
-class SamuelMwania:
-    def __init__(self):
-        self.name        = "Mwania Samuel"
-        self.degree      = "BSc Software Engineering (ML) - Final Year"
-        self.university  = "African Leadership University"
-        self.location    = "Juja, Kenya"
-
-        self.stack = {
-            "languages"  : ["Python", "SQL", "JavaScript", "Dart"],
-            "ml"         : ["PyTorch", "PyTorch Geometric", "scikit-learn",
-                            "TensorFlow", "HuggingFace Transformers"],
-            "backend"    : ["FastAPI", "SQLAlchemy 2.0 async", "Neo4j",
-                            "PostgreSQL", "Argon2id"],
-            "frontend"   : ["Next.js", "React", "Three.js / WebGL"],
-            "tooling"    : ["Docker", "Linux", "Git"],
-        }
-
-        self.research_interests = [
-            "Graph Neural Networks for financial crime detection",
-            "Low-resource African language NLP",
-            "Ethical & explainable AI",
-        ]
-
-    def current_focus(self):
-        return "Defending AegisVeritas capstone. Open to ML/backend roles."
-```
-
-<br clear="right"/>
+More: [Milan traffic forecasting](https://github.com/mwaniasam/time-series_forecasting) (5GB telemetry; LSTM and TCN against a SARIMA baseline) · [Synapse](https://github.com/mwaniasam/synapse-platform) (adaptive learning platform, Next.js and PostgreSQL) · [MoMo Analyst](https://github.com/Bonaparte003/Momo-Data_Analyst) (mobile money analytics; I built the data pipeline)
 
 ---
 
-## 🔧 What I Build
+## Research and AegisVeritas
 
-- **Graph-based intelligence systems:** GNN risk scoring and entity-relationship detection on Neo4j, built for real investigative workflows rather than flat classification
-- **ML pipelines for low-resource languages:** multilingual NLP and ASR systems (Swahili, Amharic, Lingala, Shona, Luganda) trained under constrained compute
-- **Production backend APIs:** FastAPI + SQLAlchemy 2.0 async services with tamper-evident audit logging and hardened authentication (Argon2id, timing-equalised auth flows)
-- **Full-stack ML products:** Next.js / React front ends wired to PyTorch-backed inference, from mobile yield predictors to investigator-facing dashboards
+**Uncovering Hidden Supplier Links in Kenyan Public Procurement: A Graph-Based Machine Learning Approach** · Capstone, September to November 2026
 
----
+Procurement research → graph machine learning → AegisVeritas → production screening system.
 
-## Featured Projects
-
-### Competition & Research Wins
-
-#### **Zindi Multilingual Health NLP - Ranked 17th / 1,651 participants**
-> *Public competition | 5 African languages | Real-world impact*
-
-[![GitHub](https://img.shields.io/badge/View%20Repo-multilingual--health--qa-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/multilingual-health-qa)
-
-Built a multilingual health question answering system across five African languages including Swahili and Amharic. Tracked 27+ documented submissions across multiple model architectures. Ran entirely on 12 free Colab GPU hours/day, demonstrating efficient resource management on constrained infrastructure.
-
-**Key achievements:**
-- Top 1.04% placement in international competition
-- Successfully handled low-resource African languages
-- Production-ready inference pipeline
+- **Problem:** supplier screening matches bidders by name against debarment and sanctions lists. A debarred party can return through a related company with an unrelated name.
+- **Question:** can relational structure in public procurement and ownership records identify exposure that name-based screening misses, and do learned graph representations stay effective on a real Kenyan graph?
+- **Approach:** an ownership, directorship and contract award graph built from public records, scored with a graph attention network. It is compared against a deterministic baseline, conventional machine learning, and engineered graph features with a tree ensemble. Evaluation uses entity-disjoint splits, ten seeds, ablation and permutation testing.
+- **AegisVeritas, built so far:** GNN risk scoring with a heuristic fallback for sparse subgraphs, five API endpoints with hash-chained audit logging, timing-equalised authentication, and 164+ passing automated tests.
+  - **Stack:** FastAPI, async SQLAlchemy 2.0, Neo4j, PyTorch Geometric, Argon2id, Next.js.
+- **Status:** in progress. Results will be published when the evaluation is done.
 
 ---
 
-#### **Maize Yield Predictor Mobile App**
-> *ML-powered mobile application for crop yield estimation*
+## Skills
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-ML--MobileApp__Linear__regression-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/ML-MobileApp_Linear_regression)
-
-A mobile-first machine learning application that predicts maize yield from field and environmental inputs using a linear regression pipeline, with practical UX focused on farmer-facing usability.
-
----
-
-### Production & Capstone Projects
-
-#### **AegisVeritas - Graph-Based Financial Crime Intelligence Platform**
-> *Capstone project | In active development*
-
-A production-grade anti-money laundering platform built for African financial institutions. Connects entities across transactions the way a real investigator thinks - not just flagging numbers, but building networks.
-
-**Stack:** FastAPI · SQLAlchemy 2.0 async · Neo4j · PyTorch Geometric GAT · Argon2id · Next.js · Three.js / WebGL
-
-**What is built so far:**
-- `RiskOrchestrator` - GNN risk scoring with heuristic sparse-subgraph fallback
-- 5 live API endpoints with hash-chained audit logging (tamper-evident evidence chain)
-- `PostgresAuthenticator` with timing-equalised unknown-email handling
-- `Neo4jEntityReader` with Cypher deduplication
-- Boot-time startup checks, 164+ passing automated tests
-- Investor pitch materials, Kenya-relevant data source integration (KRA, BRS, IFMIS, World Bank, ICIJ)
+- **Machine learning:** PyTorch, TensorFlow / Keras, scikit-learn, Hugging Face Transformers, FAISS, LoRA, Stable Baselines3
+- **Data:** Python, pandas, NumPy, PyArrow, PostgreSQL, MySQL, SQLite
+- **Backend and APIs:** FastAPI, Pydantic, SQLAlchemy 2.0 async, Flask, REST API design
+- **ML systems:** Docker, CUDA and GPU training, model serving, load testing with Locust
+- **Graph:** Neo4j, PyTorch Geometric, graph attention networks, entity resolution
+- **Engineering:** Linux, Git, TypeScript, Next.js, React, Flutter
 
 ---
 
-### ML & Data Science Projects
+## Interests
 
-#### **Time Series Forecasting**
-[![GitHub](https://img.shields.io/badge/View%20Repo-time--series--forecasting-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/time-series_forecasting)
-
-Comprehensive time series analysis and forecasting models with evaluation metrics and real-world data.
-
----
-
-#### **MLOps Summative**
-[![GitHub](https://img.shields.io/badge/View%20Repo-MLOPs--summative-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/MLOPs_summative)
-
-End-to-end machine learning operations pipeline including model training, evaluation, and deployment best practices.
-
----
-
-#### **Machine Learning Fundamentals**
-[![GitHub](https://img.shields.io/badge/View%20Repo-alu--machine--learning-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/alu-machine_learning)
-
-Comprehensive coursework covering supervised learning, unsupervised learning, and advanced ML techniques from scratch.
-
----
-
-### Full-Stack Development
-
-#### **Synapse Platform**
-[![GitHub](https://img.shields.io/badge/View%20Repo-synapse--platform-00d9ff?style=flat-square&logo=github)](https://github.com/mwaniasam/synapse-platform)
-
-TypeScript-based platform showcasing modern full-stack development practices.
-
----
-
-#### ****
-
-
----
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### ML & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PyG](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</td>
-</tr>
-</table>
-
----
-
-## Contributions & Experience
-
-### Community Engagement
-- Participated in multiple Zindi and Kaggle competitions
-- Research focus on improving accessibility of ML for low-resource African languages
-- Open to future opportunities in open source and research collaborations
-
-### Professional Skills
-- **Problem Solving:** Experience tackling complex challenges in NLP, GNNs, and backend systems
-- **Research:** Competitive performance in international ML competitions
-- **System Design:** Production-grade systems with focus on scalability and security
-- **Collaboration:** Cross-functional work with teams on capstone projects and research initiatives
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mwaniasam&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="Trophies" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwaniasam&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaniasam&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Streak Stats" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaniasam&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mwaniasam&bg_color=0D1117&color=00d9ff&line=00d9ff&point=FFFFFF&area_color=0D1117&title_color=00d9ff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## Education
-
-**BSc Software Engineering (Machine Learning)**  
-*African Leadership University | Rwanda Campus | 2024 – 2026*
-
-**Key coursework:** Machine Learning · Deep Learning · Graph Neural Networks · NLP · MLOps · Software Engineering · Linear Algebra · Statistics
-
-**Achievements:**
-- Capstone project: AegisVeritas (Production-grade financial crime intelligence platform)
-- Competition rankings: Zindi 17th/1,651, Google WAXAL ASR Challenge
-- Coursework focus on practical applications of ML in African context
-
----
-
-## Let's Connect
-
-<div align="center">
-
-<a href="mailto:mwaaniasamuel@gmail.com">
-<img src="https://img.shields.io/badge/Email-mwaaniasamuel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mwania-samuel">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/mwaniasam">
-<img src="https://img.shields.io/badge/GitHub-mwaniasam-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```python
-open_to = [
-    "ML Engineering roles",
-    "Backend / API development",
-    "Open source contributions",
-    "Research collaborations",
-    "Remote opportunities",
-]
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
-
-</div>
+Graph machine learning · entity resolution · risk analytics · AI for public-sector and financial systems · low-resource African language NLP
