@@ -16,7 +16,7 @@ Open to internships, graduate roles, research opportunities and full-time roles.
 
 | Project | What it is | Result | Evidence |
 |---|---|---|---|
-| **AegisVeritas** | Finds bidders in Kenyan public procurement that look independent but are linked to each other or to a debarred party. My capstone | Pre-registered: average precision 0.146 against 0.067 for Adamic-Adar in Kenya; AUC 0.85 against 0.57 in Estonia; 664 backend tests | [Case study](https://www.mwaaniasam.com/aegisveritas/) · [Walkthrough](https://youtu.be/g4tlftDK7T4) |
+| **AegisVeritas** | Finds bidders in Kenyan public procurement that look independent but are linked to each other or to a debarred party. My capstone | Pre-registered: average precision 0.146 against 0.067 for Adamic-Adar in Kenya; AUC 0.85 against 0.57 in Estonia; 665 backend tests | [Case study](https://www.mwaaniasam.com/aegisveritas/) · [Walkthrough](https://youtu.be/g4tlftDK7T4) |
 | **Maize Yield Prediction** | Random Forest regression API and Flutter app for Nigerian smallholder farms | Live on Render. R² 0.2372 against a mean-predictor baseline; the limitations are documented | [Source](https://github.com/mwaniasam/ML-MobileApp_Linear-regression) · [Live API](https://ml-mobileapp-linear-regression.onrender.com/docs) |
 | **CoffeeGuard** | Coffee leaf disease classifier: MobileNetV2, FastAPI, Streamlit, Docker, Locust | 98.80% accuracy, 98.36% macro F1 on 58,549 images; zero failed requests at 50 concurrent users | [Source](https://github.com/mwaniasam/MLOPs_summative) · [Live](https://coffeeguard-hwhq.onrender.com) |
 | **Multilingual Health QA** | Health question answering in five African languages: dense retrieval with per-language answer selection | **Zindi final rank 17th of 1,651.** Public score 0.6908, 41% above the TF-IDF baseline, 44 logged experiments | [Source](https://github.com/mwaniasam/multilingual-health-qa) |
@@ -35,13 +35,13 @@ More: [Milan traffic forecasting](https://github.com/mwaniasam/time-series_forec
 - **Problem:** supplier screening matches bidders by name against debarment and sanctions lists. A debarred party can return through a related company with an unrelated name, and two "competing" bidders can share one owner.
 - **What changed:** the proposal's graph neural network did not beat a size-only baseline on the 18 confirmed Kenyan cases. So the question became "are these two firms under one control?", where Kenyan awards disclose 12,441 ownership links to learn from.
 - **Method:** supplier pairs scored from three kinds of evidence (shared owners or directors, shared contacts, and award behaviour from LightGBM with isotonic calibration), combined Fellegi-Sunter style so every flag keeps its reasons.
-- **Results, all pre-registered:**
-  - Kenya, 7,884 held-back pairs: average precision 0.146 against 0.067 for Adamic-Adar; 25 of the top 100 flags are real links.
-  - Estonia, firms the model never saw: AUC 0.85 against 0.57, checked against Estonia's open ownership register.
-  - KeRRA contractor registers, which the model never saw: owner-linked pairs share a P.O. Box 209.9 times more often than matched controls (p = 1.0e-42).
-  - Two tests failed, and are reported in full.
-- **System:** FastAPI, PostgreSQL with row-level security, Neo4j, Celery and Redis, a Next.js app and a SHA-256 hash-chained audit log. 664 backend tests, and 80 of 80 browser tests across Chromium, Firefox and WebKit. Not on the open internet, by design: a person always decides.
-- **Next:** expert interviews (ALU ethics approval SEPT26-BEL-070) and the dissertation.
+- **Results:**
+  - Kenya, 7,884 held-back pairs (pre-registered): average precision 0.146 against 0.067 for Adamic-Adar; 25 of the top 100 flags are real links.
+  - Estonia, firms the model never saw (pre-registered): AUC 0.85 against 0.57, checked against Estonia's open ownership register.
+  - KeRRA contractor registers, which the model never saw (corroboration run after the detector was built, not pre-registered): owner-linked pairs share a P.O. Box 209.9 times more often than same-buyer controls (p = 1.0e-42), and 118.6 times more often than random pairs from the same region.
+  - Two tests failed, and are reported in full. Every number was rerun on a clean database after submission.
+- **System:** FastAPI, PostgreSQL with row-level security, Neo4j, Celery and Redis, a Next.js app and a SHA-256 hash-chained audit log. 665 backend tests, and 80 of 80 browser tests across Chromium, Firefox and WebKit. Not on the open internet: invited evaluators reach it through Cloudflare Access, and a person always decides.
+- **Now:** expert evaluation, with practitioners completing guided tasks in the app and a usability questionnaire (ALU ethics approval SEPT26-BEL-070). [Technical report (PDF)](https://www.mwaaniasam.com/aegisveritas/AegisVeritas_Technical_Report.pdf).
 
 ---
 
