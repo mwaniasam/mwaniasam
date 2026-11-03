@@ -8,7 +8,7 @@ BSc Software Engineering (Machine Learning), African Leadership University · Co
 
 Open to internships, graduate roles, research opportunities and full-time roles. Internships and project-based work now, full-time from January 2027.
 
-**[Portfolio](https://www.mwaaniasam.com)** · **[Resume](https://docs.google.com/document/d/1P5MNIAe3ejL193irf26fcbxkm3EahZN5T39hx1_UtCg/view)** · **[LinkedIn](https://www.linkedin.com/in/samuel-mwania-73sa17)** · **[Email](mailto:mwaaniasamuel@gmail.com)**
+**[Portfolio](https://www.mwaaniasam.com)** · **[Resume (PDF)](https://www.mwaaniasam.com/Samuel-Mwania-Resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/mwaaniasam)** · **[Email](mailto:mwaaniasamuel@gmail.com)**
 
 ---
 
@@ -19,10 +19,18 @@ Open to internships, graduate roles, research opportunities and full-time roles.
 | **AegisVeritas** | Finds bidders in Kenyan public procurement that look independent but are linked to each other or to a debarred party. My capstone | Pre-registered: average precision 0.146 against 0.067 for Adamic-Adar in Kenya; AUC 0.85 against 0.57 in Estonia; 665 backend tests | [Case study](https://www.mwaaniasam.com/aegisveritas/) · [Walkthrough](https://youtu.be/g4tlftDK7T4) |
 | **Maize Yield Prediction** | Random Forest regression API and Flutter app for Nigerian smallholder farms | Live on Render. R² 0.2372 against a mean-predictor baseline; the limitations are documented | [Source](https://github.com/mwaniasam/ML-MobileApp_Linear-regression) · [Live API](https://ml-mobileapp-linear-regression.onrender.com/docs) |
 | **CoffeeGuard** | Coffee leaf disease classifier: MobileNetV2, FastAPI, Streamlit, Docker, Locust | 98.80% accuracy, 98.36% macro F1 on 58,549 images; zero failed requests at 50 concurrent users | [Source](https://github.com/mwaniasam/MLOPs_summative) · [Live](https://coffeeguard-hwhq.onrender.com) |
-| **Multilingual Health QA** | Health question answering in five African languages: dense retrieval with per-language answer selection | **Zindi final rank 17th of 1,651.** Public score 0.6908, 41% above the TF-IDF baseline, 44 logged experiments | [Source](https://github.com/mwaniasam/multilingual-health-qa) |
+| **Multilingual Health QA** | Health question answering in five African languages: dense retrieval with per-language answer selection | **Zindi final rank 17th of 1,651.** Public score 0.6908, 41% above the TF-IDF baseline, 44 logged experiments | [Case study](https://www.mwaaniasam.com/health-qa/) · [Source](https://github.com/mwaniasam/multilingual-health-qa) |
 | **Freeway DQN** | Controlled 30-experiment study of DQN hyperparameters, team of three | Discount factor 0.90 beat the conventional 0.99 | [Source](https://github.com/kelvintawe12/Freeway-DQN_formative3) |
 
 More: [Milan traffic forecasting](https://github.com/mwaniasam/time-series_forecasting) (5GB telemetry; LSTM and TCN against a SARIMA baseline) · [Synapse](https://github.com/mwaniasam/synapse-platform) (adaptive learning platform, Next.js and PostgreSQL) · [MoMo Analyst](https://github.com/Bonaparte003/Momo-Data_Analyst) (mobile money analytics; I built the data pipeline)
+
+---
+
+## Experience
+
+**Data Engineer Intern, Hello Tractor** · Nairobi · April to August 2025
+
+Agritech platform connecting smallholder farmers with tractor owners across Africa. Prepared and audited datasets for reporting, and supported batch prediction runs.
 
 ---
 
