@@ -16,7 +16,7 @@ Open to internships, graduate roles, research opportunities and full-time roles.
 
 | Project | What it is | Result | Evidence |
 |---|---|---|---|
-| **AegisVeritas** | Finds bidders in Kenyan public procurement that look independent but are linked to each other or to a debarred party. My capstone | Pre-registered: average precision 0.146 against 0.067 for Adamic-Adar in Kenya; AUC 0.85 against 0.57 in Estonia; 665 backend tests | [Case study](https://www.mwaaniasam.com/aegisveritas/) · [Walkthrough](https://youtu.be/g4tlftDK7T4) |
+| **AegisVeritas** | Finds bidders in Kenyan public procurement that look independent but are linked to each other or to a debarred party. My capstone, final report November 2026 | Pre-registered: average precision 0.146 against 0.067 for Adamic-Adar in Kenya; AUC 0.85 against 0.57 in Estonia; 701 automated tests, none failing; usability score 74/100 | [Case study](https://www.mwaaniasam.com/aegisveritas/) · [Walkthrough](https://youtu.be/g4tlftDK7T4) |
 | **Maize Yield Prediction** | Random Forest regression API and Flutter app for Nigerian smallholder farms | Live on Render. R² 0.2372 against a mean-predictor baseline; the limitations are documented | [Source](https://github.com/mwaniasam/ML-MobileApp_Linear-regression) · [Live API](https://ml-mobileapp-linear-regression.onrender.com/docs) |
 | **CoffeeGuard** | Coffee leaf disease classifier: MobileNetV2, FastAPI, Streamlit, Docker, Locust | 98.80% accuracy, 98.36% macro F1 on 58,549 images; zero failed requests at 50 concurrent users | [Source](https://github.com/mwaniasam/MLOPs_summative) · [Live](https://coffeeguard-hwhq.onrender.com) |
 | **Multilingual Health QA** | Health question answering in five African languages: dense retrieval with per-language answer selection | **Zindi final rank 17th of 1,651.** Public score 0.6908, 41% above the TF-IDF baseline, 44 logged experiments | [Case study](https://www.mwaaniasam.com/health-qa/) · [Source](https://github.com/mwaniasam/multilingual-health-qa) |
@@ -48,8 +48,9 @@ Agritech platform connecting smallholder farmers with tractor owners across Afri
   - Estonia, firms the model never saw (pre-registered): AUC 0.85 against 0.57, checked against Estonia's open ownership register.
   - KeRRA contractor registers, which the model never saw (corroboration run after the detector was built, not pre-registered): owner-linked pairs share a P.O. Box 209.9 times more often than same-buyer controls (p = 1.0e-42), and 118.6 times more often than random pairs from the same region.
   - Two tests failed, and are reported in full. Every number was rerun on a clean database after submission.
-- **System:** FastAPI, PostgreSQL with row-level security, Neo4j, Celery and Redis, a Next.js app and a SHA-256 hash-chained audit log. 665 backend tests, and 80 of 80 browser tests across Chromium, Firefox and WebKit. Not on the open internet: invited evaluators reach it through Cloudflare Access, and a person always decides.
-- **Now:** expert evaluation, with practitioners completing guided tasks in the app and a usability questionnaire (ALU ethics approval SEPT26-BEL-070). [Technical report (PDF)](https://www.mwaaniasam.com/aegisveritas/AegisVeritas_Technical_Report.pdf).
+- **System:** FastAPI, PostgreSQL with row-level security, Neo4j, Celery and Redis, a Next.js app and a SHA-256 hash-chained audit log. 687 of 701 tests passed and none failed, 80 of 80 browser tests across Chromium, Firefox and WebKit, and Lighthouse accessibility 100 on all 8 pages. Under load it served 1,500 clients at once with no failed requests, within the 2-second target up to 300. Not on the open internet: invited evaluators reach it through Cloudflare Access, and a person always decides.
+- **Evaluation:** ten users finished 39 of 40 tasks and gave a mean usability score of 74 out of 100 (published average 68). One practitioner took part, against a target of 12 to 15, so this is early feedback (ALU ethics approval SEPT26-BEL-070).
+- **Status:** final report submitted November 2026. [Technical report (PDF)](https://www.mwaaniasam.com/aegisveritas/AegisVeritas_Technical_Report.pdf).
 
 ---
 
