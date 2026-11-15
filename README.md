@@ -4,9 +4,9 @@
 
 I build machine learning and data systems that turn real-world problems into deployable software: model, API, container, deployment, load test, retraining path. Seven built, two answering live requests in production.
 
-BSc Software Engineering (Machine Learning), African Leadership University · Completing December 2026, graduation ceremony June 2027 · Based in Kenya
+BSc Software Engineering (Machine Learning), African Leadership University · Studies completed, graduation ceremony June 2027 · Based in Kenya
 
-Open to internships, graduate roles, research opportunities and full-time roles. Internships and project-based work now, full-time from January 2027.
+**Available now** for full-time roles, research and project work, and ready to relocate anywhere.
 
 **[Portfolio](https://www.mwaaniasam.com)** · **[Resume (PDF)](https://www.mwaaniasam.com/Samuel-Mwania-Resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/mwaaniasam)** · **[Email](mailto:mwaaniasamuel@gmail.com)**
 
