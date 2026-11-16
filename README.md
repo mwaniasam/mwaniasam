@@ -1,14 +1,24 @@
 # Samuel Mwania
 
-**Software Engineer · Machine Learning & Data Systems**
+**Machine Learning Engineer · Data Engineer · Python Backend**
 
 I build machine learning and data systems that turn real-world problems into deployable software: model, API, container, deployment, load test, retraining path. Seven built, two answering live requests in production.
 
-BSc Software Engineering (Machine Learning), African Leadership University · Studies completed, graduation ceremony June 2027 · Based in Kenya
+**Available now** for machine learning engineer, data engineer and Python backend roles, full-time or contract: remote from Kenya (UTC+3), hybrid in Nairobi, or relocating anywhere.
 
-**Available now** for full-time roles, research and project work, and ready to relocate anywhere.
+BSc Software Engineering (Machine Learning), African Leadership University · Studies completed, graduation ceremony June 2027
 
 **[Portfolio](https://www.mwaaniasam.com)** · **[Resume (PDF)](https://www.mwaaniasam.com/Samuel-Mwania-Resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/mwaaniasam)** · **[Email](mailto:mwaaniasamuel@gmail.com)**
+
+---
+
+## Roles I'm ready for
+
+| Role | What proves it |
+|---|---|
+| **Machine learning engineer** | A calibrated LightGBM evidence engine (calibration error 0.010) whose releases go live only if they beat the baseline and the current model · CoffeeGuard: 98.8% accuracy, served with FastAPI in Docker, zero failed requests under load · 17th of 1,651 on Zindi |
+| **Data engineer** | 144,097 contract records joined to 12,441 ownership links in PostgreSQL and Neo4j by a one-command pipeline that records checksums and the code commit for every run · 5GB of telemetry ingested in under 3GB of memory · Data engineering internship at Hello Tractor |
+| **Backend engineer, Python** | FastAPI with JWT auth, roles, PostgreSQL row-level security and a hash-chained audit log, behind a Next.js app · 701 automated tests, none failing · a pre-award tender check that answers in a median 0.07 seconds |
 
 ---
 
@@ -17,12 +27,12 @@ BSc Software Engineering (Machine Learning), African Leadership University · St
 | Project | What it is | Result | Evidence |
 |---|---|---|---|
 | **AegisVeritas** | Finds bidders in Kenyan public procurement that look independent but are linked to each other or to a debarred party. My capstone, final report November 2026 | Pre-registered: average precision 0.146 against 0.067 for Adamic-Adar in Kenya; AUC 0.85 against 0.57 in Estonia; 701 automated tests, none failing; usability score 74/100 | [Case study](https://www.mwaaniasam.com/aegisveritas/) · [Walkthrough](https://youtu.be/g4tlftDK7T4) |
-| **Maize Yield Prediction** | Random Forest regression API and Flutter app for Nigerian smallholder farms | Live on Render. R² 0.2372 against a mean-predictor baseline; the limitations are documented | [Source](https://github.com/mwaniasam/ML-MobileApp_Linear-regression) · [Live API](https://ml-mobileapp-linear-regression.onrender.com/docs) |
-| **CoffeeGuard** | Coffee leaf disease classifier: MobileNetV2, FastAPI, Streamlit, Docker, Locust | 98.80% accuracy, 98.36% macro F1 on 58,549 images; zero failed requests at 50 concurrent users | [Source](https://github.com/mwaniasam/MLOPs_summative) · [Live](https://coffeeguard-hwhq.onrender.com) |
 | **Multilingual Health QA** | Health question answering in five African languages: dense retrieval with per-language answer selection | **Zindi final rank 17th of 1,651.** Public score 0.6908, 41% above the TF-IDF baseline, 44 logged experiments | [Case study](https://www.mwaaniasam.com/health-qa/) · [Source](https://github.com/mwaniasam/multilingual-health-qa) |
+| **CoffeeGuard** | Coffee leaf disease classifier: MobileNetV2, FastAPI, Streamlit, Docker, Locust | 98.80% accuracy, 98.36% macro F1 on 58,549 images; zero failed requests at 50 concurrent users | [Source](https://github.com/mwaniasam/MLOPs_summative) · [Live](https://coffeeguard-hwhq.onrender.com) |
+| **Maize Yield Prediction** | Random Forest regression API and Flutter app for Nigerian smallholder farms | Live on Render. R² 0.2372 against a mean-predictor baseline; the limitations are documented | [Source](https://github.com/mwaniasam/ML-MobileApp_Linear-regression) · [Live API](https://ml-mobileapp-linear-regression.onrender.com/docs) |
 | **Freeway DQN** | Controlled 30-experiment study of DQN hyperparameters, team of three | Discount factor 0.90 beat the conventional 0.99 | [Source](https://github.com/kelvintawe12/Freeway-DQN_formative3) |
 
-More: [Milan traffic forecasting](https://github.com/mwaniasam/time-series_forecasting) (5GB telemetry; LSTM and TCN against a SARIMA baseline) · [Synapse](https://github.com/mwaniasam/synapse-platform) (adaptive learning platform, Next.js and PostgreSQL) · [MoMo Analyst](https://github.com/Bonaparte003/Momo-Data_Analyst) (mobile money analytics; I built the data pipeline)
+More: [Milan traffic forecasting](https://github.com/mwaniasam/time-series_forecasting) (5GB telemetry; LSTM and TCN against a SARIMA baseline) · [Synapse](https://github.com/mwaniasam/synapse-platform) (adaptive learning platform, Next.js and PostgreSQL) · [MoMo Analyst](https://github.com/Bonaparte003/Momo-Data_Analyst) (mobile money analytics; I built the data pipeline) · [This portfolio](https://github.com/mwaniasam/portfolio) (the source of mwaaniasam.com)
 
 ---
 
