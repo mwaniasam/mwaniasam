@@ -4,11 +4,11 @@
 
 I build machine learning and data systems that turn real-world problems into deployable software: model, API, container, deployment, load test, retraining path. Seven built, two answering live requests in production.
 
-**Available now** for machine learning engineer, data engineer and Python backend roles, full-time or contract: remote from Kenya (UTC+3), hybrid in Nairobi, or relocating anywhere.
+**Open to work:** machine learning engineer, data engineer and Python backend roles, full-time or contract. Remote, on site, or relocation, anywhere in the world.
 
-BSc Software Engineering (Machine Learning), African Leadership University · Studies completed, graduation ceremony June 2027
+BSc Software Engineering (Machine Learning), African Leadership University, 2024 to 2026
 
-**[Portfolio](https://www.mwaaniasam.com)** · **[Resume (PDF)](https://www.mwaaniasam.com/Samuel-Mwania-Resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/mwaaniasam)** · **[Email](mailto:mwaaniasamuel@gmail.com)**
+**[Portfolio](https://www.mwaaniasam.com)** · **[Resume (PDF)](https://www.mwaaniasam.com/Samuel-Mwania-Resume.pdf)** ([ML](https://www.mwaaniasam.com/resume/Samuel-Mwania-ML-Engineer.pdf), [data](https://www.mwaaniasam.com/resume/Samuel-Mwania-Data-Engineer.pdf), [backend](https://www.mwaaniasam.com/resume/Samuel-Mwania-Backend-Engineer.pdf)) · **[LinkedIn](https://www.linkedin.com/in/mwaaniasam)** · **[Email](mailto:mwaaniasamuel@gmail.com)**
 
 ---
 
@@ -38,7 +38,7 @@ More: [Milan traffic forecasting](https://github.com/mwaniasam/time-series_forec
 
 ## Experience
 
-**Data Engineer Intern, Hello Tractor** · Nairobi · April to August 2025
+**Data Engineer Intern, Hello Tractor** · April to August 2025
 
 Agritech platform connecting smallholder farmers with tractor owners across Africa. Prepared and audited datasets for reporting, and supported batch prediction runs.
 
